@@ -1,0 +1,10 @@
+{
+  "name": "What's Cooking",
+  "description": "Snap your fridge, answer 4 quick questions, and get 3 cozy recipes you can cook right now.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
